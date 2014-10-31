@@ -1,4 +1,10 @@
 test1
 test3
 test2
+<<<<<<< HEAD
 bug01
+=======
+newline1
+newline2
+newline3
+>>>>>>> 46571f4ec35efe8add300ad613b43954630e5c75
